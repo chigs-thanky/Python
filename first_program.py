@@ -1,0 +1,1 @@
+print("My life is restarting today.")
